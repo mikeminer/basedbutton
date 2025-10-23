@@ -45,5 +45,5 @@ Just you, your wallet, and Base.
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/basedbutton.git
+git clone https://github.com/mikeminer/basedbutton.git
 cd basedbutton
